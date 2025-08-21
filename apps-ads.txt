@@ -1,0 +1,6 @@
+# apps-ads.txt (opcional para monetização de apps)
+# Após o app estar publicado na Google Play, substitua as linhas abaixo com os IDs oficiais de vendedores autorizados.
+# Guia AdMob/AppLovin recomenda hospedar este arquivo em https://www.seu-dominio.com/apps-ads.txt
+# Exemplo de linha (substitua pelos seus):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# applovin.com, jvappsstudio-XXXXX, DIRECT
